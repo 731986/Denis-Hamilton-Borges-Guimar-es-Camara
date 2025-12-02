@@ -73,8 +73,8 @@ Experiência estratégica em **Sistemas Hospitalares** e na **Análise e Customi
 - **Sales Force – Introdução ao Cliente** – 2022  
 - **Web Designer (Photoshop, CorelDRAW, Illustrator, Dreamweaver, HTML/CSS)** – SENAI (2012)  
 - **Introdução à Programação (C#, VB, SQL Server Básico)** – KA Solution
-- Inteligencia Artificial (IA Generativa, LLMs, Engenharia de Prompt, Tecnica de Engenharia de Prompt, entre outro
-  curso em andamento)
+- **Inteligencia Artificial (IA Generativa, LLMs, Engenharia de Prompt, Tecnica de Engenharia de Prompt, entre outro
+  curso em andamento)** - DIO.
 
 ---
 
